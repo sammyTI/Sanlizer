@@ -3,6 +3,12 @@ import processing.data.*;
 import processing.event.*; 
 import processing.opengl.*; 
 
+import ddf.minim.*; 
+import ddf.minim.analysis.*; 
+import ddf.minim.effects.*; 
+import ddf.minim.signals.*; 
+import ddf.minim.spi.*; 
+import ddf.minim.ugens.*; 
 import ddf.minim.analysis.*; 
 import ddf.minim.*; 
 
@@ -16,6 +22,13 @@ import java.io.OutputStream;
 import java.io.IOException; 
 
 public class Sanlizer extends PApplet {
+
+
+
+
+
+
+
 
 
 
